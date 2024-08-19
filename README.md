@@ -16,7 +16,7 @@ Ongoing tracking of Craigslist ads.
 
 ## Server Rack (25U)
 
-[For For Sale: 42" Height 25U Enclosed Server Rack with Accessories - $600][serverrack25u-url]
+[For Sale: 42" Height 25U Enclosed Server Rack with Accessories - $600][serverrack25u-url]
 
 [kegerator-url]: https://nh.craigslist.org/for/d/exeter-for-sale-diy-beer-kegerator-setup/7754762002.html
 [networkappliances-url]: https://nh.craigslist.org/ele/d/exeter-for-sale-cisco-and-dell-managed/7754798949.html
